@@ -8,6 +8,10 @@
 * basic5000_phoneme_openjtalk.txt
     * OpenJTalk用音素列
     * phoneme.pyを実行して取得
+* basic5000_modified_openjtalk.txt
+    * アクセント情報を手修正するためのテキストファイル
+    * phoneme.pyを実行して取得
+    * 手修正は「なお、次の者は認定講習を受講しなくても、産業保安監督部へ申請し、認定電気工事従事者認定証の交付を受けることができる」まで完了
 
 ## 謝辞
 

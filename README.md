@@ -25,5 +25,5 @@
 
 ## ライセンス
 
-拡張子が.txtのファイル　･･･　CC BY-SA 4.0（元データのライセンスを継承）
-それ以外　･･･　[MIT LICENSE](./MIT_LICENSE)
+* 拡張子が.txtのファイル　･･･　CC BY-SA 4.0（元データのライセンスを継承）
+* それ以外　･･･　[MIT LICENSE](./MIT_LICENSE)
